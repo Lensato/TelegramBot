@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nik_bot", "nik_bot\nik_bot.csproj", "{172E1E76-21E4-41B5-8DFE-CCAD28F8C22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{172E1E76-21E4-41B5-8DFE-CCAD28F8C22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{172E1E76-21E4-41B5-8DFE-CCAD28F8C22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{172E1E76-21E4-41B5-8DFE-CCAD28F8C22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{172E1E76-21E4-41B5-8DFE-CCAD28F8C22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F647B550-9FA0-4102-BB98-404FC0A93072}
+	EndGlobalSection
+EndGlobal
